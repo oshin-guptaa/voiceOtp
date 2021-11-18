@@ -8,6 +8,7 @@
         "icon_url": "https://d5d8d9fr8izry.cloudfront.net/inapp_icon/cross.png",
         "message": "You have exceeded 3 attempts. Kindly visit after sometime.",
         "button_text": "DONE"
+    }
   },
   "verifyOtp" : {
     "data": {
