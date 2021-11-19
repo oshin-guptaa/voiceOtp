@@ -11,6 +11,7 @@
     }
   },
   "verifyOtp" : {
+    "isSuccess": true,
     "data": {
         "title": "Verification Failed",
         "icon_url": "https://d5d8d9fr8izry.cloudfront.net/inapp_icon/cross.png",
